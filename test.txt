@@ -1,1 +1,1 @@
-This is a sample text. New updates here!
+This is a new text that is put in new branch.
